@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+}
+button{
+    background-color: green;
+    color: aliceblue;
+    margin: 5px;
+
+
+}
+#taskinput{
+    width: 300px;
+    text-align:left ;
+}   
+button.delet{
+    height: 20px;
+    float: right;
+    background-color: red;
+}    
+ul{
+    list-style: none;
+}                                                                                                                                                  
